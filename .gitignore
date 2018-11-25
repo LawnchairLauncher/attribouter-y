@@ -1,0 +1,14 @@
+db_files
+*.iml
+.project
+.settings
+.classpath
+.project.properties
+gen/
+bin/
+.gradle/
+local.properties
+build/
+.DS_Store
+captures/
+/.idea/
