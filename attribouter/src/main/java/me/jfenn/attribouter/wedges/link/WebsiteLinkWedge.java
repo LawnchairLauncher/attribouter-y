@@ -1,6 +1,6 @@
 package me.jfenn.attribouter.wedges.link;
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 
 public class WebsiteLinkWedge extends LinkWedge {
 

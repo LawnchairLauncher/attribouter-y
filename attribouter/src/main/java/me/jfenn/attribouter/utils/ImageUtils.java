@@ -8,7 +8,7 @@ import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.VectorDrawable;
 import android.os.Build;
-import androidx.vectordrawable.graphics.drawable.VectorDrawableCompat;
+import android.support.graphics.drawable.VectorDrawableCompat;
 
 public class ImageUtils {
 

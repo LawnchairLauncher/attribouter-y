@@ -1,7 +1,7 @@
 package me.jfenn.attribouter.utils;
 
 import android.graphics.Color;
-import androidx.annotation.ColorInt;
+import android.support.annotation.ColorInt;
 
 public class ColorUtils {
 
